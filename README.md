@@ -6,11 +6,11 @@
 
 | 文件 | 内容 | SHA-256 |
 | --- | --- | --- |
-| [`coffee-studio-source.zip`](./coffee-studio-source.zip) | Coffee Studio 网站、Cloudflare Worker、Supabase 迁移和 Android 源码 | `F85347AF7C6426F2E67E06B0E9DD5B98F3B151382FFDC665085351542E0887D5` |
-| [`deployment-source.zip`](./deployment-source.zip) | Cloudflare 部署脚本和迁移说明 | `5376D22496D71BD10AB5F3D2FAA2FD7650A1B66872678C8C4C1A95D5348B4D6A` |
-| [`shiguang-recipe-source.zip`](./shiguang-recipe-source.zip) | 时光配方静态站点源码 | `E6A7F72E5D88C885D1F2B904D66BA88A356A9A43C488DE9568B2076607AC2118` |
+| [`coffee-studio-source.zip`](./coffee-studio-source.zip) | Coffee Studio 网站、静态资源、Cloudflare Worker、Supabase 迁移和 Android 源码 | `CC9992CC287C6A658B356788B449D1C22340BC18BA906C03C6E37535AD4F225A` |
+| [`deployment-source.zip`](./deployment-source.zip) | Cloudflare 部署脚本和迁移说明 | `F035CA28F7234BBA9B6DF2A5C81C792142AD1C0D121248EF3261D9C807025F4D` |
+| [`shiguang-recipe-source.zip`](./shiguang-recipe-source.zip) | 时光配方静态站点源码 | `6135B5977AA33ABA58F20D843F6898595542A3DB6A6BE5758F824D5FF86B2003` |
 
-三个压缩包合计包含 31 个项目文件，并保留各项目内部的目录结构。
+三个压缩包合计包含 109 个项目文件，并保留各项目内部的目录结构。本次备份更新于 2026-10-23。
 
 ## 已移除或替换的内容
 

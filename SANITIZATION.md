@@ -1,6 +1,7 @@
 # Sanitized backup
 
-This repository is a fresh backup without the original Git histories.
+This repository is a fresh backup without the original Git histories. The
+sanitized archives were refreshed from the MS workspace on 2026-10-23.
 
 Removed from the backup:
 
